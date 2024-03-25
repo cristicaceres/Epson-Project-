@@ -12,3 +12,4 @@ Task II: Stacking
 For the second task we have the Stacking exercise, which as the name states, it consists of stacking 6 tokens and 6 blocks intervariated.
 
 Task III: Custom exercise
+In this challenge we want to show the advantage and cons of having a 3D printed tray, we implemented the IO Box for this challenge as well.
